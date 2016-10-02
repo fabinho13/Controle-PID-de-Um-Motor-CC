@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Relatorio_Lab_de_Controle_de_Sistemas.aux
+The style file: unsrt.bst
+Database file #1: Relatorio_Lab_de_Controle_de_Sistemas.bib
+You're missing a field name---line 81 of file Relatorio_Lab_de_Controle_de_Sistemas.bib
+ : year =     "2010",
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--empty year in busca_de_maxima_potencia_com_sistemas_microcontrolados
+Too many commas in name 1 of "Sun Rong-xia, Guo Liang, Ji Na,Liu Wei,Zhou Ying-chang" for entry pesticida
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Sun Rong-xia, Guo Liang, Ji Na,Liu Wei,Zhou Ying-chang" for entry pesticida
+while executing---line 944 of file unsrt.bst
+Warning--empty year in pesticida
+Warning--empty year in caracteres_chineses
+Too many commas in name 1 of "J. R. Friedman, V. Patel, W. Chen, S. K. Tolpygo and J. E. Lukens" for entry contrucao_microconputador_proteus
+while executing---line 944 of file unsrt.bst
+Name 1 in "Ahmad Shukri Bin Fazil Rahman, and Abdul Rahim Bin Abdul Raza" has a comma at the end for entry controle_de_carga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Jartin Aroram,Gagandeep,Sarvesh SS Rawat,Karthik Srinivasam,Vikram,Puri" for entry voltimetro_digital
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Jartin Aroram,Gagandeep,Sarvesh SS Rawat,Karthik Srinivasam,Vikram,Puri" for entry voltimetro_digital
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Jartin Aroram,Gagandeep,Sarvesh SS Rawat,Karthik Srinivasam,Vikram,Puri" for entry voltimetro_digital
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in voltimetro_digital
+Warning--empty year in voltimetro_digital
+You've used 14 entries,
+            1791 wiz_defined-function locations,
+            510 strings with 6079 characters,
+and the built_in function-call counts, 3404 in all, are:
+= -- 338
+> -- 65
+< -- 8
++ -- 30
+- -- 16
+* -- 144
+:= -- 469
+add.period$ -- 41
+call.type$ -- 14
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 197
+empty$ -- 333
+format.name$ -- 16
+if$ -- 832
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 13
+newline$ -- 72
+num.names$ -- 13
+pop$ -- 53
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 152
+stack$ -- 0
+substring$ -- 256
+swap$ -- 93
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 29
+width$ -- 16
+write$ -- 143
+(There were 8 error messages)

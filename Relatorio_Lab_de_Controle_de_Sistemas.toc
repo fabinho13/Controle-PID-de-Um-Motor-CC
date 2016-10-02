@@ -1,0 +1,23 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Motor de Corrente Cont\IeC {\'\i }nua}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Tacogerador}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Optoacoplador}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Observa\IeC {\c c}\IeC {\~a}o}{4}{subsection.1.4}
+\contentsline {section}{\numberline {2}Procedimentos Experimentais e Simula\IeC {\c c}\IeC {\~a}o}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Fun\IeC {\c c}\IeC {\~a}o de Transfer\IeC {\^e}ncia do Motor}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}PWM}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Aspecto Pr\IeC {\'a}tico do PWM}{7}{subsection.2.3}
+\contentsline {section}{\numberline {3}Conclus\IeC {\~a}o Malha Aberta}{7}{section.3}
+\contentsline {section}{\numberline {4}Controle e Ajustes em Malha Fechada}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Controladore PI}{8}{subsection.4.1}
+\contentsline {section}{\numberline {5}Implementa\IeC {\c c}\IeC {\~a}o Do Controlador PI}{10}{section.5}
+\contentsline {section}{\numberline {6}Verifica\IeC {\c c}\IeC {\~a}o dos Crit\IeC {\'e}rios de Desempenho em Malha Fechada e Aberta e Compara\IeC {\c c}\IeC {\~o}es.}{11}{section.6}
+\contentsline {section}{\numberline {7}Tratamento dos Dados Para a Obte\IeC {\c c}\IeC {\~a}o da Velocidade}{13}{section.7}
+\contentsline {section}{\numberline {8}Conclus\IeC {\~o}es}{13}{section.8}
+\contentsline {section}{\numberline {9}Ap\IeC {\^e}ndice:Simula\IeC {\c c}\IeC {\~a}o no Proteus do Sistema Motor DC}{14}{section.9}
+\contentsline {section}{\numberline {10}Revis\IeC {\~a}o de trabalhos feito no Proteus}{14}{section.10}
+\contentsline {section}{\numberline {11}Simula\IeC {\c c}\IeC {\~o}es em Malha aberta}{15}{section.11}
+\contentsline {section}{\numberline {12}Simula\IeC {\c c}\IeC {\~o}es do Controle em Malha Fechada.}{16}{section.12}
+\contentsline {section}{\numberline {13}Simula\IeC {\c c}\IeC {\~a}o PWM no Proteus e Constru\IeC {\c c}\IeC {\~a}o da Placa de Controle}{17}{section.13}
+\contentsline {section}{\numberline {14}Conclus\IeC {\~a}o Simula\IeC {\c c}\IeC {\~a}o Proteus}{19}{section.14}

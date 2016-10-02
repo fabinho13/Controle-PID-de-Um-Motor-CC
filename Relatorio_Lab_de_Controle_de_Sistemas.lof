@@ -1,0 +1,21 @@
+\select@language {portuguese}
+\contentsline {figure}{\numberline {1}{\ignorespaces Simula\IeC {\c c}\IeC {\~a}o no Matlab da fu\IeC {\c c}\IeC {\~a}o de transf\IeC {\^e}rencia do motor excitada por um degrau de 12.3 Volts}}{6}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Resultado da velocidade do motor segundo uma excita\IeC {\c c}\IeC {\~a}o degrau de 12.3Volts}}{6}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Esquema em Diagrama de Blocos do Controle do Motor}}{8}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Esquem\IeC {\'a}tico do controle PI Simulink}}{9}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Esquem\IeC {\'a}tico De Malha Fechada no Simulink}}{9}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Resultado da Simula\IeC {\c c}\IeC {\~a}o em Malha Fechada Com Controle PI}}{9}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Circuito com os Amplificadores Operacionais Atuando Como Porporcional e Integrador, al\IeC {\'e}m do PWM}}{10}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Resultado da Implementa\IeC {\c c}\IeC {\~a}o do Controlador PI}}{11}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Resultado da da Simula\IeC {\c c}\IeC {\~a}o do Controlador PI.}}{11}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Erro de Regime Permanente.}}{12}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Velocidade de Rota\IeC {\c c}\IeC {\~a}o do Motor em RPM}}{13}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Simula\IeC {\c c}\IeC {\~a}o Proteus e Matlab e Dados Obitdos Experimetalmente \cite {labcenter}}}{14}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Simula\IeC {\c c}\IeC {\~a}o Proteus e Matilab e Dados Obitdos Experimetalmente}}{15}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Erro Com Rela\IeC {\c c}\IeC {\~a}o aos Dados Reais da Simula\IeC {\c c}\IeC {\~a}o no Proteus e Matlab em Malha Aberta}}{16}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Estrutura Simulada no Proteus com os Componentes Reais do Controlador}}{16}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Estrutura Simulada no Proteus e Matlab e Dados Obtidos Experimentalmente}}{17}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Circuito PWM}}{18}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Simula\IeC {\c c}\IeC {\~a}o do Circuito PWM da Figura Acima.}}{18}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Imagem na Forma de PCB Construida no Software Proteus Ares}}{18}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Placa Renderizada do Circuito PCB Acima.}}{19}{figure.20}
